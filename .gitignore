@@ -1,3 +1,5 @@
 *.o
 
-*.dSYM
+* dSYM
+
+.DS_Store
